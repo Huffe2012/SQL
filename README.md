@@ -15,8 +15,8 @@ PostgreSQL was installed locally to run queries and practice hands-on.
 # Sample Data
 The course provided a .tar file containing sample data for a DVD rental business.
 
-You can find the file here: dvdrental (1).tar
-(Note: Rename the file to dvdrental.tar for easier use in pgAdmin or the command line.)
+Used file: dvdrental (1).tar
+
 
 # Getting Started
 Install PostgreSQL.
